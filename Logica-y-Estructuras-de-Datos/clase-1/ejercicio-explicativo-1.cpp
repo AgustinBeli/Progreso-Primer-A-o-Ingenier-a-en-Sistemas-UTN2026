@@ -8,7 +8,7 @@ int main () {
     string nombre;
 
     cin >> nombre;
-    cout << "Hola "<< nombre << " un gusto conocerte!" << endl;
+    cout << "Hola "<< nombre << " un gusto conocerte. Hasta pronto!" << endl;
 
     return 0;
 }
