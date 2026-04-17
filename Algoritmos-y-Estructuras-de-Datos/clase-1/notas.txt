@@ -1,0 +1,5 @@
+
+\0 corta la cadena de caracteres.
+0 = 48 A = 65.
+NO usar variables globales.
+Función es instrucción que admite argumentos y devuelve un resultado.
